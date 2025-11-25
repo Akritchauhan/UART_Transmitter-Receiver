@@ -129,10 +129,4 @@ Higher baud rate support
 
 Separate TX and RX modules
 
-If you want, I can also create:
 
-✅ GitHub description
-✅ Commit message
-✅ Folder structure
-✅ Block diagram (image)
-✅ Simulation testbench
